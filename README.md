@@ -6,7 +6,7 @@
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out [here](https://)
+*Friend Finder* is deployed to Heroku. Please check it out [here](https://calm-sierra-37220.herokuapp.com/)
 
 ## Running Locally
 
