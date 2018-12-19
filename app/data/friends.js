@@ -2,7 +2,7 @@
 var friendsList = [
 	{
 		name: 'Moose',
-		photo: 'https://github.com/perrycpf/friend-finder/app/public/images/moose.jpg',
+		photo: 'https://perrycpf.github.io/friend-finder/app/public/images/moose.jpg',
 		scores: [
 			'2',
 			'5',
@@ -18,7 +18,7 @@ var friendsList = [
 	},
 	{
 		name: 'Panda',
-		photo: 'https://github.com/perrycpf/friend-finder/app/public/images/panda.jpg',
+		photo: 'https://perrycpf.github.io/friend-finder/app/public/images/panda.jpg',
 		scores: [
 			'2',
 			'4',
