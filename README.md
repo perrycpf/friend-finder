@@ -10,7 +10,7 @@
 
 ## Running Locally
 
-- Cone repo.
+- Clone repo.
 - Run npm install in GitBash for Windows or run npm install in Terminal for MAC.
 - Run node server.js to start the server
 - You can then access it locally from your browser at the URL `localhost:PORT`, in this case `localhost:3000`.
