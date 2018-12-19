@@ -23,7 +23,6 @@ module.exports = (app) => {
                 bestMatch = i;
             }    
         }
-        console.log(friendsList[bestMatch]);
         friendsList.push(req.body);
         res.json(friendsList[bestMatch]);
     })
